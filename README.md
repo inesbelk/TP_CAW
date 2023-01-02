@@ -2,4 +2,4 @@
 binome: Belkhodja Ines Narimene , Sekhara Rania
 G3
 MiniProjet:
-Belkhodja Ines Narimene , Sekhara Rania,Seaidani Djoumana G3
+Belkhodja Ines Narimene , Sekhara Rania,Saidani Djoumana G3
